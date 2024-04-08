@@ -3,8 +3,8 @@
 - GOD EATER 2 (JP)
 
 
-I will cover some nice things i suppose
-always make an issue to correct some things :)
+I will cover some nice things i suppose,
+ always make an issue to correct some things :)
 
 
 
