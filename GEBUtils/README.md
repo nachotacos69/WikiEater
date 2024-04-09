@@ -35,4 +35,3 @@ Notes:
 - Although it works, chances of corruption is kind of somewhere in the middle of good and bad
 - this method works as well with the dlc content, but i guess around which file to use but i only got
   `4a92f06c65fd9bc1536e36e89a065222.edat` as a perfect candidate for it
-- i will explain the rest of the file and its use on **[GEBCS](https://github.com/nachotacos69/WikiEater/tree/main/GEBCS)**
