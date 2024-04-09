@@ -101,3 +101,22 @@ Example is from here: https://www.youtube.com/watch?v=u_vxs-LKEnc
 
 # pgf format
 - for me, based on research, they are somekind of font file for the PSP itself.
+
+
+# `.gmo` and `.gim` files
+- `.gmo` i believe its called a **[Generic Model Object?](http://wiki.ffrtt.ru/index.php/PSP/GMO_Format)**
+  of course, these files are related to:
+    + field models
+    + face models
+    + aragami models
+    + other models
+    + animation frames
+- `.gim` a.k.a **[Grapic Image Map](https://www.psdevwiki.com/ps3/Graphic_Image_Map_(GIM))** are used for
+    + texture for the characters
+    + textures for the aragamis
+    + textures for the entire game of course
+ 
+
+
+
+***-END OF PAGE 1-***
