@@ -125,6 +125,14 @@ Example is from here: https://www.youtube.com/watch?v=u_vxs-LKEnc
 - for the aragami and for the player they use `.blt` (which is a aragami bullet)
 - `.obc` and `.obcf` are for those bullets we bought or made from bullet editor
 
+# `.act` files
+- can be found inside `MS_` folders usually names `meta_effect` and `meta_motion`:
+  + inside the `meta_effect.act`.. the first few couple of bytes are `41 63 54 69 4F 6E 01 00 4D 00 00 00 00 00 00 00 45 6E 45 4D 79 45 66 46 65 43 74` and it translates to `AcTiOn�M�������EnEMyEfFeCt` and yes.. thats the text
+  + and inside `meta_motion.act`..  the first few couple of bytes are `41 63 54 69 4F 6E 01 00 55 00 00 00 00 00 00 00 4D 65 74 61 4D 6F 74 69 6F 6E` and it translates to `AcTiOn�U�������MetaMotion` and thats the text as well
+- the rest of the contents are unreadable for humans, unless someone decompiles them
 
-
+# `.sps` file
+- i am kinda sure that they are the ones that handles the effects for the game
+  + the first few bytes are `2E 53 50 53 00 00 01 00 50 53 50 20` that translates to `.SPS���PSP ` and thats the texts too
+  
 ***-END OF PAGE 1-***
