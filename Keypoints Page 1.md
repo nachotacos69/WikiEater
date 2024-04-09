@@ -136,3 +136,4 @@ Example is from here: https://www.youtube.com/watch?v=u_vxs-LKEnc
   + the first few bytes are `2E 53 50 53 00 00 01 00 50 53 50 20` that translates to `.SPS���PSP ` and thats the texts too
   
 ***-END OF PAGE 1-***
+***[Page 2](https://github.com/nachotacos69/WikiEater/blob/main/Keypoint%20Page%202.md)***
