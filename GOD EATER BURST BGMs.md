@@ -28,3 +28,11 @@
 26. In a Pool of Sunshine - `bgm_ind_004`
 27. Ruthless King - `bgm_btl_025`
 28. Endless Invasion - `bgm_btl_026`
+
+
+# Notes
+- Avoid longer bgm to replace
+- Keep everything in 44100Hz and use 48 or 64 bitrate
+- Try to make a seemless loop
+- if the replacement bgm is bigger than the original bgm, either use 48 bitrate
+  or redo the entire bgm by making the bgm less its length time
