@@ -87,12 +87,12 @@ Example is from here: https://www.youtube.com/watch?v=u_vxs-LKEnc
 
 # `res` formats
 - i have had idea what these files are, but they are nearby on some files and they have:
-  + `50 72 65 73 10` bytes which translates to `Pres`
+  + `50 72 65 73` bytes which translates to `Pres`
 
 
 # `.bin` files
 - inside `/system/` you can see those `.bin` files that contains:
-  + `7F 45 4C 46 01 01 01` the first seven values? that translates to `ELF` 
+  + `7F 45 4C 46` the first four values? that translates to `ELF` 
   + along the way you can find this bytes as well `47 43 43 3A 20 28 47 4E 55 29 20 34 2E 30 2E 34 2B 61 6C 6C 65 67 72 65 78 2D 32 2E 32 2E 33 2D 70 73 70 2D 32 2E 39 2E 30` which translates to `GCC: (GNU) 4.0.4+allegrex-2.2.3-psp-2.9.0`
  ![Screenshot (78)](https://github.com/nachotacos69/WikiEater/assets/99103531/f61a70ce-309a-45b2-a711-ed3f6dfbdb27)
 
@@ -116,6 +116,14 @@ Example is from here: https://www.youtube.com/watch?v=u_vxs-LKEnc
     + textures for the aragamis
     + textures for the entire game of course
  
+# `fpth` files
+- i don't really kno what they are, but they have:
+  + `50 61 54 68 4D 61 54 72 49 78` which translates to `PaThMaTrIx`
+
+# `.blt` and `.obc/obcf` files
+- these are actually bullet files from what i can understand
+- for the aragami and for the player they use `.blt` (which is a aragami bullet)
+- `.obc` and `.obcf` are for those bullets we bought or made from bullet editor
 
 
 
