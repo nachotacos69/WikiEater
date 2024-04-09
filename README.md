@@ -1,6 +1,6 @@
 # This will cover only the following
-- GOD EATER BURST (USA, JP, EUR)
-- GOD EATER 2 (JP)
+- GOD EATER BURST (USA, JP, EUR) [mostly here are GEB content]
+- GOD EATER 2 (JP) [there wasn't many tools so there's only small content for this one]
 
 
 I will cover some nice things i suppose,
