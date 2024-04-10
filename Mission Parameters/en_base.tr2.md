@@ -1,3 +1,4 @@
+# TOPIC - ARAGAMI BASE POINT (HEALTH POINTS, etc.)
 # Requirements
 - Notepad ++
 - HxD
