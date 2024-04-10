@@ -49,3 +49,6 @@ Heads Up: i usually don't have the idea on the other names but i will give my un
 ![Screenshot (95)](https://github.com/nachotacos69/WikiEater/assets/99103531/7d7d3270-0276-48c4-97cd-16a5037b8434)
 
 ![Screenshot (94)](https://github.com/nachotacos69/WikiEater/assets/99103531/a363c017-9c55-451b-adda-54a1b1b60060)
+
+
+**END OF PAGE**
