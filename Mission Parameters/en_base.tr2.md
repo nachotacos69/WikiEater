@@ -36,7 +36,7 @@ NOTE 2: Always make a copy of that mission folder in case something bad happens
 * Answer: The right part is the mission list, where i check the mission names and their ID's.. In the bottom left is `en_base.tr2` of the mission that im editing, although that editor doesnt see `FLOAT 32` and `UINT` stuff.. And the top left is another TR2 Editor but its actually for `GOD EATER RESURRECTION` and `GOD EATER 2 Rage Burst`, i use it just to view `en_base.tr2` `Float32` and `UINT` areas.
 
 
-- Then drag the `en_base.tr2` t HXD to open it
+- Then drag the `en_base.tr2` to HXD to open it
 
 ![image](https://github.com/nachotacos69/WikiEater/assets/99103531/15d63c28-5a33-4e36-807b-81b80d9d08a3)
 
