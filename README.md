@@ -4,7 +4,7 @@
 
 
 # [What is WikiEater]
-- to be honest, i only made repository for fun and sharing my knowledge to everyone i guess, maybe someday i could expand this to the other GOD EATER GAMES (except 3, **IF THE TOOLS EVER EXISTED**
+- to be honest, i only made repository for fun and sharing my knowledge to everyone i guess, maybe someday i could expand this to the other GOD EATER GAMES (except 3), **IF THE TOOLS EVER EXISTED**
 
 
 # Note
