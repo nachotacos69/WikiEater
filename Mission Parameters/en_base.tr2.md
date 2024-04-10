@@ -93,5 +93,40 @@ Heads Up: i usually don't have the idea on the other names but i will give my un
 - `en_base_badstatus_vsgod_time` (UINT16) - related to bind trap/antibody bullets, time of effect for the bind effect.
 
 
-
 ![Screenshot (88)](https://github.com/nachotacos69/WikiEater/assets/99103531/e9ae9b42-0851-4c68-9443-580058bf9cf0)
+
+
+--STUN EFFECT--
+- `en_base_badstatus_stun_grenade_dist` (FLOAT32) - related to stun grenades, in game distance effect. basically if you're far away, it won't work, if you're near, it will work.
+- `en_base_badstatus_stun_grenade_angle` (FLOAT32) - related to stun grenades, in game angle, basically if you're behind, it will probably works or wont work, but you guys can correct me with this one
+
+--OTHER EFFECT--
+- `en_base_badstatus_unheared_time` (UINT16) - i have no idea, but its something related to Disguise Status?
+
+
+- `en_base_hate_total` (INT32) - Total Hate of the aragami, will only work or active when `en_base_hate_array` increases its value until it reaches the `en_base_hate_total` value?
+- `en_base_rage_time` (UINT16) - Aragami's enraged time, if modified, there will be behaviour changes
+- `en_base_appear_after_wait_time` (UINT16) - Aragami delay of entrance based on its spawning area
+- `en_base_disappear_wait_time` (UINT16) - Aragami dead body disappearance time, if modified, there will be behaviour changes
+- `en_base_near_death_threshold` (INT8) - this will trigger when the aragami's is near death or low hp (if you have Enemy HP Vision, you should see the aragami icon blinking)
+
+![Screenshot (89)](https://github.com/nachotacos69/WikiEater/assets/99103531/790c8509-d212-4e21-ac53-9970550fd8ac)
+
+- `en_base_bite_stock_threshold` (INT8) - there are two of them, i think is related to player devouring? or its related to the aragami eating in the salvage points?
+- `en_base_bite_stock_rate` (INT8) - there are 2 of them, some kind of rating/chances?
+- `en_base_bite_recover_life_percent` (INT8) - there are 4 of them, related to devouring the salvage points and they will recover based on the value i guess.
+
+![Screenshot (90)](https://github.com/nachotacos69/WikiEater/assets/99103531/8d967331-301b-4277-8aac-68b5384d4a8c)
+
+
+- `en_base_material_acquirable_count` (INT8) - related to devouring the aragami after death.
+- `en_base_angry_attack_scale` (INT16) - during its **enraged**, the aragami damage will increase base on the value
+- `en_base_angry_accumulate_bonus_threshold` - i dont really have an idea, but its still related to the `en_base_angry_attack_scale`
+- `en_base_angry_accumulate_bonus_factor` (INT8) - related to the `en_base_angry_attack_scale`, bonus value i suupose
+- `en_base_bad_condition_factor` (INT16) - there are 6 of them, related to a bad effect or something
+- `en_base_append_material_id` (INT16) - there are 5 of them, those 5 have different values and will only show up during result screen i suppose
+- `en_base_append_material_weight` (INT8) - related to `en_base_append_material_id`, its basically a drop rate/percentage.
+
+![Screenshot (91)](https://github.com/nachotacos69/WikiEater/assets/99103531/c754bf1c-eea1-4eb7-9a4a-1cec1b99674d)
+
+**END OF PAGE**
