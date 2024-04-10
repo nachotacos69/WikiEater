@@ -1,3 +1,4 @@
+#TOPIC - ARAGAMI ATTACK PARAMETERS
 # Requirements
 - Notepad ++
 - HxD
