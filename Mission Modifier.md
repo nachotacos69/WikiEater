@@ -76,6 +76,22 @@ Heads Up: i usually don't have the idea on the other names but i will give my un
 
 - `en_base_down_array` (UINT16) - related to the aragami when it's downed, there's atleast 3 of them
     + if possibly decreased/increased, there will be changes on its downtime.
+
+--POISON EFFECT--
 - `en_base_badstatus_poison_value` (UINT16) - related to venom trap/venom bullets, maximum value for the effect to be triggered or only stacked until it diminishes
 - `en_base_badstatus_poison_add_value` (UINT16) - related to venom trap/venom bullets, each venom uses increases the value for until it reached the same value as `en_base_badstatus_poison_value`
-- 
+- `en_base_badstatus_poison_down` (FLOAT32) - related to venom trap/poison bullets, i don't have idea what it does
+
+--HOLD EFFECT--
+- `en_base_badstatus_hold_value` (UINT16) - related to snare trap/paralyze bullets, maximum value for the effect to be triggered or only stacked until it diminishes
+- `en_base_badstatus_hold_add_value` (UINT16) - related to snare trap/paralyze bullets, each paralyze uses increases the value for until it reached the same value as `en_base_badstatus_hold_value`
+- `en_base_badstatus_hold_time` (UINT16) - related to snare trap/paralyze bullets, time of effect for the hold effect.
+  
+--BIND EFFECT--
+- `en_base_badstatus_vsgod_value` (UINT16) - related to bind trap/antibody bullets, maximum value for the effect to be triggered or only stacked until it diminishes
+- `en_base_badstatus_vsgod_add_value` (UINT16) - related to bind trap/antibody bullets, each bind uses increases the value for until it reached the same value as `en_base_badstatus_vsgod_value`
+- `en_base_badstatus_vsgod_time` (UINT16) - related to bind trap/antibody bullets, time of effect for the bind effect.
+
+
+
+![Screenshot (88)](https://github.com/nachotacos69/WikiEater/assets/99103531/e9ae9b42-0851-4c68-9443-580058bf9cf0)
