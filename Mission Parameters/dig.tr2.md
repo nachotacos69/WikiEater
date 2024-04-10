@@ -34,10 +34,10 @@ NOTE 2: Always make a copy of that mission folder in case something bad happens
 # What is dig?
  + after some i guess fiddling around with the file, its like your salvage points. the way they work is based on their weight... kind of like a rarity/percentage of drop points?
 
-- `dig_volume_name` (ASCII) - the names of the salvage points, usually around 8 object entries, but for Aegis and Church of Memories
-  they have none
-- `dig_id_array` (INT16) - for each salvage points, they are randomized about 1 to 4 materials.. pretty simple
-- `dig_type_array` (UINT8) - for each salvage points, they are either **convertable salvage** or just **regular material**
+- `dig_volume_name` (ASCII) - the names of the salvages entry points, usually around 8 object entries, this will be empty for Aegis and
+   Church of Memories.
+- `dig_id_array` (INT16) - for each salvage points, they are randomized about 1 to 4 materials.. pretty simple. Their values can be found on `article.tr2`, located in `/system/god_menu/nodbg/`
+- `dig_type_array` (UINT8) - usually value 11 or 10. For each salvage points, they are either **convertable salvage** or just **regular material**
 - `dig_sub_type_array` (UINT8) - since they are zeros, i cannot document them
 - `dig_weight_array` (UINT32) - this one acts like a chance/percentage rate of apperance, from 1 of those 4 materials, the game will decide
   what materials will appear on the mission based on that weight (which acts like a percentage here i suppose)
