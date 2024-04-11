@@ -46,5 +46,11 @@ NOTE 2: Always make a copy of that mission folder in case something bad happens
 ![Screenshot (92)](https://github.com/nachotacos69/WikiEater/assets/99103531/fc94d652-2443-4977-88b3-0fd186d8afa9)
 ![Screenshot (93)](https://github.com/nachotacos69/WikiEater/assets/99103531/edd66963-3229-432a-8a20-d23424efcb77)
 
+VIDEO:
+- in the first index, i triggered the third value of `dig_weight_array` in `MIN_Object_Entry_0001`, since there's two 25 weights, i named the third one **Rarity 25-1** so there's no confusion
+![oof](https://github.com/nachotacos69/WikiEater/assets/99103531/045369eb-2275-42a4-8834-b30d817761e7)
+
+
 
 **END OF PAGE**
+
