@@ -49,8 +49,7 @@ Heads Up: i usually don't have the idea on the other names but i will give my un
   folder and its `.xml` and `.res` files too
 - `en_base_display_name` (UTF-8) - The aragami's name that displays on screen except on `Mission Check` tab i believe.
 - `en_base_entry_limit` (UINT8) - from what i can tell, since it says **entry** this is either some kind of limitation for aragami's spawn limit?
-- `en_base_hp` (UINT32) - consider that aragamis have bond parts, it displays 4 of them:
-  + the first, second, and third is probably for the bonds that aragami has?, we can only guess from this part for now, for the fourth one.. is probably the main      health of the aragami since its has bigger value to the the rest of the 3 parts.
+- `en_base_hp` (UINT32) - multiple HP list.. i dont know much about this it is rather related to the bonds i suppose, then the 4th one is the main health?
 - `en_base_family_id` (UINT8) - i do not know...
 - `en_base_sight_area` (FLOAT32) - the visibilty of the aragami based on in game distance. If increased, they will have possibility of X-Ray
 - `en_base_hearing_area` (FLOAT32) - aragami's hearing in game distance. If increased, they will be aware of your movements (dash, jump, Blade to Gun Switching)
