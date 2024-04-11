@@ -5,8 +5,8 @@ Heads Up: i usually don't have the idea on the other names but i will give my un
 
 - `quest_flow_end_trig` (UINT8) - i have no knowledge for this
 - `quest_flow_time_limit` (UINT16) - i have no knowledge for this
-- `quest_flow_start_eventscript` (INT8) - maybe its related to `god_g001_Demo`?
-- `quest_flow_end_eventscript` (INT8) - maybe its related to `god_g001_Demo`?
+- `quest_flow_start_eventscript` (INT8) - maybe its related to `god_g001_Demo` or `_TutorialMission`?
+- `quest_flow_end_eventscript` (INT8) - maybe its related to `god_g001_Demo` or `_TutorialMission`?
 - `quest_flow_enemy_id` (UINT16) - unknown, but possibly related to the enemy IDs?
 - `quest_flow_enemy_count` (UINT16) - unknown, ut possiblt related to enemy counts (spawn count?)
 - `quest_flow_quest_en_id_array` (UINT16) -  related to aragamis
