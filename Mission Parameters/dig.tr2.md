@@ -32,7 +32,7 @@ NOTE 2: Always make a copy of that mission folder in case something bad happens
 
 
 # What is dig?
- + after some i guess fiddling around with the file, its like your salvage points. the way they work is based on their weight... kind of like a rarity/percentage of drop points?
+ + after some i guess fiddling around with the file, its like your salvage points. the way they work is based on their weight... kind of like a rarity/percentage for chances of appearance?
 
 - `dig_volume_name` (ASCII) - the names of the salvages entry points, usually around 8 object entries, this will be empty for Aegis and
    Church of Memories.
