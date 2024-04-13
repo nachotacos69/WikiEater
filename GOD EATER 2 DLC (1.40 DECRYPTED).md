@@ -14,6 +14,7 @@
  - `conf - (00 63 6F 6E 66)` can be found
  - `bap - (00 62 61 70)` can be found
  - `bin - (00 62 69 6E)` can be found
+ - `vag - (00 76 61 67)` can be found
  - that's all i can really find
 
 ![image](https://github.com/nachotacos69/WikiEater/assets/99103531/6f77bae6-72d5-43cb-b4fc-288ec9a1c777)
@@ -34,5 +35,6 @@
 
 ![image](https://github.com/nachotacos69/WikiEater/assets/99103531/736c1c86-2896-4b52-bc6b-7fbe4f731227)
 
+![image](https://github.com/nachotacos69/WikiEater/assets/99103531/f705d3ee-163a-4db6-b948-512d2b9fdf27)
 
 
