@@ -1,4 +1,4 @@
-# TOPIC - DLC Explanation
+# TOPIC - DLC Explanation (GOD EATER BURST)
 
 
  - Currently i have no idea on how to extract contents of the DLC..
