@@ -87,12 +87,12 @@ Example is from here: https://www.youtube.com/watch?v=u_vxs-LKEnc
 
 # `res` formats
 - i have had idea what these files are, but they are nearby on some files and they have:
-  + `50 72 65 73` bytes which translates to `Pres`
+  + `50 72 65 73` bytes which translates to `Pres` as its magic header
 
 
 # `.bin` files
 - inside `/system/` you can see those `.bin` files that contains:
-  + `7F 45 4C 46` the first four values? that translates to `ELF` 
+  + `7F 45 4C 46` the first four values? that translates to `ELF` as its magic header>
   + along the way you can find this bytes as well `47 43 43 3A 20 28 47 4E 55 29 20 34 2E 30 2E 34 2B 61 6C 6C 65 67 72 65 78 2D 32 2E 32 2E 33 2D 70 73 70 2D 32 2E 39 2E 30` which translates to `GCC: (GNU) 4.0.4+allegrex-2.2.3-psp-2.9.0`
  ![Screenshot (78)](https://github.com/nachotacos69/WikiEater/assets/99103531/f61a70ce-309a-45b2-a711-ed3f6dfbdb27)
 
@@ -118,7 +118,7 @@ Example is from here: https://www.youtube.com/watch?v=u_vxs-LKEnc
  
 # `fpth` files
 - i don't really kno what they are, but they have:
-  + `50 61 54 68 4D 61 54 72 49 78` which translates to `PaThMaTrIx`
+  + magic header`50 61 54 68 4D 61 54 72 49 78` which translates to `PaThMaTrIx`
 
 # `.blt` and `.obc/obcf` files
 - these are actually bullet files from what i can understand
@@ -127,13 +127,13 @@ Example is from here: https://www.youtube.com/watch?v=u_vxs-LKEnc
 
 # `.act` files
 - can be found inside `MS_` folders usually names `meta_effect` and `meta_motion`:
-  + inside the `meta_effect.act`.. the first few couple of bytes are `41 63 54 69 4F 6E 01 00 4D 00 00 00 00 00 00 00 45 6E 45 4D 79 45 66 46 65 43 74` and it translates to `AcTiOn�M�������EnEMyEfFeCt` and yes.. thats the text
-  + and inside `meta_motion.act`..  the first few couple of bytes are `41 63 54 69 4F 6E 01 00 55 00 00 00 00 00 00 00 4D 65 74 61 4D 6F 74 69 6F 6E` and it translates to `AcTiOn�U�������MetaMotion` and thats the text as well
+  + inside the `meta_effect.act`.. the header is `41 63 54 69 4F 6E 01 00 4D 00 00 00 00 00 00 00 45 6E 45 4D 79 45 66 46 65 43 74` and it translates to `AcTiOn�M�������EnEMyEfFeCt` and yes.. thats the text
+  + and inside `meta_motion.act`..  the header is `41 63 54 69 4F 6E 01 00 55 00 00 00 00 00 00 00 4D 65 74 61 4D 6F 74 69 6F 6E` and it translates to `AcTiOn�U�������MetaMotion` and thats the text as well
 - the rest of the contents are unreadable for humans, unless someone decompiles them
 
 # `.sps` file
 - i am kinda sure that they are the ones that handles the effects for the game
-  + the first few bytes are `2E 53 50 53 00 00 01 00 50 53 50 20` that translates to `.SPS���PSP ` and thats the texts too
+  + the headeri s `2E 53 50 53 00 00 01 00 50 53 50 20` that translates to `.SPS���PSP ` and thats the texts too
   
 ***-END OF PAGE 1-***
 ***[Page 2](https://github.com/nachotacos69/WikiEater/blob/main/Keypoint%20Page%202.md)***
