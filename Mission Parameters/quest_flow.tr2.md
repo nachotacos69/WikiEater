@@ -12,7 +12,7 @@ Heads Up: i usually don't have the idea on the other names but i will give my un
 - `quest_flow_quest_en_id_array` (UINT16) -  related to aragamis
 - `quest_flow_quest_en_flag_array` (UINT16) -  related to aragamis, but if one of those IDs are in there, they are part of the main target.. im just guessing
 - `quest_flow_quest_en_volume` (ASCII) - there are 8 of them, they serve as a spawn point location for each aragamis i cant say how many spawn points are there since maps have different spawn areas
-   and i never really understand them, but they use `FIX_Enemy_Entry_` as name for the spawnpoint.
+   and i never really understand them, but they use `FIX_Enemy_Entry_` as name for the spawnpoint. Apparently `EP108_Enemy_Entry_0001` is only used for Mission ID 108 
 - `quest_flow_quest_en_num` (UINT8) - required amount to kill and to finish the mission.
 - `quest_flow_quest_volume_type_array` (UINT8) - i have no knowledge for this
 - `quest_flow_quest_volume_1` (ASCII) - i have no knowledge for this
