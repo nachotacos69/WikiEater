@@ -30,7 +30,7 @@
 28. Endless Invasion - `bgm_btl_026`
 
 
-# Notes
+# Guide and Notes
 - Avoid longer bgm to replace
 - Keep everything in 44100Hz and use 48 or 64 bitrate
 - Try to make a seemless loop
