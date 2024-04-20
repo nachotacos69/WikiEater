@@ -1,5 +1,6 @@
 # TOPIC - DLC Explanation (GOD EATER 2 1.40 DECRYPTED)
 
+- I didn't include 1.40 ENCRYPTED due to it being encrypted of course
 
  - Currently i have no idea on how to extract contents of the DLC..
  - the DLC though has uses a magic header hex of `50 72 65 73 20` which is `Pres `?
