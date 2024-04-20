@@ -2,4 +2,5 @@
 
 this will cover some GOD EATER RESURRECTION stuff
 
-so yeah
+read the .md files for the stuff
+
