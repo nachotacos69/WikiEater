@@ -1,15 +1,14 @@
 # Changelog
 April 20 2024:
 - Moving GEB/GE2 related stuff to a new folder
-- ADDING GOD EATER RESURRECTION CONTENT SOON (empty folders for now)
-- ADDING GOD EATER 2 RAGE BURST CONTENT SOON (empty folders for now)
+- ADDING GOD EATER RESURRECTION CONTENT SOON (not available due because of hard time learning them)
+- ADDING GOD EATER 2 RAGE BURST CONTENT SOON (not available due because of hard time learning them)
 - ADDED Contents table in here for some reason
 
 # This will cover only the following
 - GOD EATER BURST (USA, JP, EUR)
 - GOD EATER 2 (JP) [there wasn't many tools so there's only small content for this one]
-- GOD EATER RESURRECTION [PC ONLY]
-- GOD EATER 2 RAGE BURST [PC ONLY]
+
 
 
 # [What is WikiEater]
@@ -19,8 +18,7 @@ April 20 2024:
 
 # Contents
 - GOD EATER BURST + GOD EATER 2 - Related to older games (ADDING MORE GE2 content really soon if there's any tool for it to extract everything that the game has + DLC content too.)
-- GOD EATER RESURRECTION - Documentation for GER
-- GOD EATER 2 RAGE BURST - Documentation for GE2RB
+
 
 
 # Note
