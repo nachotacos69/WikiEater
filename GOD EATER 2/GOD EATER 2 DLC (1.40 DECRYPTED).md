@@ -3,7 +3,7 @@
 **UPDATE: APRIL 21 2024:**
 I currently didn't included the ENCRYPTED version of the DLC, making it hard to read
 but the .edat still has that weird header `00 50 53 50 45 44 41 54 03 00 00 01 90 00 00 03 4A 50 30 37 30 30 2D 4E 50 4A 48 35 30 38 33 32 5F 30 30 2D 47 41 4D 45 55 50 44 41 54 45 30 30 30 30 30 31` which translates to `�PSPEDAT����JP0700-NPJH50832_00-GAMEUPDATE000001`
-
+![Screenshot (137)](https://github.com/nachotacos69/WikiEater/assets/99103531/271430ce-a298-4c8d-a51d-2d74be558597)
 
 
 
