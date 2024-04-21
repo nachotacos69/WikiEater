@@ -1,7 +1,13 @@
 # TOPIC - DLC Explanation (GOD EATER 2 1.40 DECRYPTED)
 
-**BIG NOTES: I didn't include 1.40 ENCRYPTED due to it being encrypted of course**
+**UPDATE: APRIL 21 2024:**
+I currently didn't included the ENCRYPTED version of the DLC, making it hard to read
+but the .edat still has that weird header `00 50 53 50 45 44 41 54 03 00 00 01 90 00 00 03 4A 50 30 37 30 30 2D 4E 50 4A 48 35 30 38 33 32 5F 30 30 2D 47 41 4D 45 55 50 44 41 54 45 30 30 30 30 30 31` which translates to `�PSPEDAT����JP0700-NPJH50832_00-GAMEUPDATE000001`
 
+
+
+
+# Findings
  - Currently i have no idea on how to extract contents of the DLC..
  - the DLC though has uses a magic header hex of `50 72 65 73 20` which is `Pres `?
  - it contains `blz - (62 6C 7A)`/`blz2 - (62 6C 7A 32)` for some reason?
