@@ -16,6 +16,26 @@ Note: I am using 1.40 ISO, This is just some findings that i only post, i sugges
 ![Screenshot (142)](https://github.com/nachotacos69/WikiEater/assets/99103531/7692cf3a-be6a-4216-8d3a-80e51da45959)
 
 
-- Pres" `50 72 65 73 20` -> `Pres ` (really important and it uses this a lot by the way)
+- Pres: `50 72 65 73 20` -> `Pres ` (really important and it uses this a lot by the way)
 ![Screenshot (143)](https://github.com/nachotacos69/WikiEater/assets/99103531/6086e119-c0db-4324-bad3-b3ce91be9745)
+
+- bin: `00 62 69 6E` -> `�bin`
+![Screenshot (144)](https://github.com/nachotacos69/WikiEater/assets/99103531/8263947f-9294-4098-87de-71779d0313eb)
+
+
+- gim: `00 67 69 6D` -> `�gim`
+![Screenshot (145)](https://github.com/nachotacos69/WikiEater/assets/99103531/565526fd-f7e0-4951-ab38-a2922d9308f8)
+
+- gmo: `00 67 6D 6F` -> `�gmo`
+![Screenshot (146)](https://github.com/nachotacos69/WikiEater/assets/99103531/78b86752-50d7-4d9a-aa97-4e1e0b23fa73)
+
+- ssq: `00 73 73 71` -> `�ssq`
+![Screenshot (147)](https://github.com/nachotacos69/WikiEater/assets/99103531/0f65f2dd-d4c4-4c5d-b746-b30df4298fca)
+
+
+
+
+
+
+
 
