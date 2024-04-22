@@ -9,7 +9,10 @@ but the .edat still has that weird header `00 50 53 50 45 44 41 54 03 00 00 01 9
 
 # Findings
  - Currently i have no idea on how to extract contents of the DLC..
- - DECRYPTED DLC Header???: `72 64 70 20 20 20 20 20 20 20 20 20 20 20 20 20 29 E7 B9 3A 8A D4 45 85 B3 8D E4 93 2E D5 16 C0` -> `rdp             )ç¹:ŠÔE…³ä“.ÕÀ`
+ - DECRYPTED DLC rdp Header???: `72 64 70 20 20 20 20 20 20 20 20 20 20 20 20 20 29 E7 B9 3A 8A D4 45 85 B3 8D E4 93 2E D5 16 C0` -> `rdp             )ç¹:ŠÔE…³ä“.ÕÀ`
+![Screenshot (151)](https://github.com/nachotacos69/WikiEater/assets/99103531/8e51d543-84ec-4c7d-b955-bc2e8b677b03)
+
+
  - the DLC though has uses a magic header hex of `50 72 65 73 20` which is `Pres `?
  - it contains `blz2 - (62 6C 7A 32)`, apparently this is somekind of compression
  - `at3x - (00 61 74 33 78)` can be found
