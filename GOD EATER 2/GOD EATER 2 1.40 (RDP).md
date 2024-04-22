@@ -1,6 +1,6 @@
 # Contents
 1. **package.rdp**
-2. **data.rdp**
+2. **data.rdp** (soon)
 
 Note: I am using 1.40 ISO, This is just some findings that i only post, i suggest view the entire .rdp in HxD by yourself if you want to learn about this alone
 
