@@ -1,6 +1,6 @@
 # TOPIC - BLZ2
 
-Heads Up!: currently i have no brains to do this documentation, but for now all i can say is that blz2 contains usually motions and possible models
+**Heads Up!**: currently i have no brains to do this documentation, but for now all i can say is that blz2 contains usually motions and possible models
 `gmo` format
 
 - header: `blz2` / `62 6C 7A 32`
