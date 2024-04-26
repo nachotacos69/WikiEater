@@ -8,3 +8,5 @@
 # Deflate/Decompress BLZ2
 - use GECV BLZ tool https://github.com/HaoJun0823/GECV
 
+# Changelog
+- APRIL 26 2024: + 70 lines on PATCH index
