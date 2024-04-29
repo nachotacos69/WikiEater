@@ -15,3 +15,4 @@
 # BLZ2 Roulette
 - a simple and silly tool that i made basically to extract every possible BLZ2 file that it can find
 - Some blz2 are extractable through GECV BLZ Tool which is the good one and some you get errors which is the bad side (and thats why it had a `Roulette` name)
+- You might wanna edit/configure the .bat script
