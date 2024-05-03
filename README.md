@@ -1,9 +1,7 @@
 # Changelog
-April 20 2024:
-- Moving GEB/GE2 related stuff to a new folder
-- ADDING GOD EATER RESURRECTION CONTENT SOON (not available due because of hard time learning them)
-- ADDING GOD EATER 2 RAGE BURST CONTENT SOON (not available due because of hard time learning them)
-- ADDED Contents table in here for some reason
+MAY 03 2024
+- Updated a few things
+
 
 # This will cover only the following
 - GOD EATER BURST (USA, JP, EUR)
@@ -12,8 +10,7 @@ April 20 2024:
 
 
 # [What is WikiEater]
-- to be honest, i only made repository for fun and sharing my knowledge to everyone i guess, maybe someday i could expand this to the other GOD EATER GAMES (except 3), **IF THE TOOLS EVER EXISTED**
-
+- to be honest, i only made repository for fun and sharing my knowledge to everyone i guess, maybe someday i could expand this to the other GOD EATER GAMES (except 3 since i believe its been documented)
 
 
 # Contents
