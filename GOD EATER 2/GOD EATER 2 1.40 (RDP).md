@@ -1,6 +1,5 @@
 # Contents
-1. **package.rdp**
-2. **data.rdp** (soon)
+1. **JUST RDP**
 
 Note: I am using 1.40 ISO, This is just some findings that i only post, i suggest view the entire .rdp in HxD by yourself if you want to learn about this alone
 
@@ -32,10 +31,18 @@ Note: I am using 1.40 ISO, This is just some findings that i only post, i sugges
 - ssq: `00 73 73 71` -> `�ssq`
 ![Screenshot (147)](https://github.com/nachotacos69/WikiEater/assets/99103531/0f65f2dd-d4c4-4c5d-b746-b30df4298fca)
 
+some files arent founded but you can roam around the .rdp files
 
+# key notes/theories from myself
 
+1. for AT3/RIFF files (applies to GEB as well):
+- in offset 0x00000004 to 0x00000007 (or Block `04-07`), this seems to be the size of the AT3 file, wacky but kind of accurate to be honest, it's in a uint32/int32 encoding, then convert that uint32/int32 values into a hex, then you can use that hex to go to the file's end offset of the file
 
+- Block  `04-07`
+![Screenshot (169)](https://github.com/nachotacos69/WikiEater/assets/99103531/59fe7722-7c62-44be-a5bb-ee06b5a8e4ba)
 
+- Converting UINT32 Value to Hex then using it to search the end offsets:
+![Screenshot (170)](https://github.com/nachotacos69/WikiEater/assets/99103531/676a0dc4-8ded-4bf5-93da-2a9b8bed983f)
 
 
 
