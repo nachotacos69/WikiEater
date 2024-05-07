@@ -8,12 +8,12 @@ Heads Up: i usually don't have the idea on the other names but i will give my un
 - `quest_flow_start_eventscript` (INT8) - maybe its related to `god_g001_Demo` or `_TutorialMission`?
 - `quest_flow_end_eventscript` (INT8) - maybe its related to `god_g001_Demo` or `_TutorialMission`?
 - `quest_flow_enemy_id` (UINT16) - unknown, but possibly related to the enemy IDs?
-- `quest_flow_enemy_count` (UINT16) - total aragamis to spawn? default is zero but changes when there's a mission required multiple aragamis and each spawn will only be limited due to `quest_flow_quest_en_num`
+- `quest_flow_enemy_count` (UINT16) - overall aragamis to spawn? default is zero but changes when there's a mission required multiple aragamis to kill and each spawn will only be limited due to `quest_flow_quest_en_num` value
 - `quest_flow_quest_en_id_array` (UINT16) -  related to aragamis
 - `quest_flow_quest_en_flag_array` (UINT16) -  related to aragamis, but if one of those IDs are in there, they are part of the main target.. im just guessing
 - `quest_flow_quest_en_volume` (ASCII) - there are 8 of them, they serve as a spawn point location for each aragamis i cant say how many spawn points are there since maps have different spawn areas
    and i never really understand them, but they use `FIX_Enemy_Entry_` as name for the spawnpoint. Apparently `EP108_Enemy_Entry_0001` is only used for Mission ID 108 
-- `quest_flow_quest_en_num` (UINT8) - required amount to kill and to finish the mission.
+- `quest_flow_quest_en_num` (UINT8) - amount of enemies will spawn, values may vary from 1 to 4. If `quest_flow_enemy_count` is 0, then i could think that the only amount of aragamis will spawn is based on the value of `quest_flow_quest_en_num`, and if `quest_flow_enemy_count` has values "30 for example", it will still spawn based on the `quest_flow_quest_en_num` value but if you kill one aragami, it will spawn another aragami.
 - `quest_flow_quest_volume_type_array` (UINT8) - i have no knowledge for this
 - `quest_flow_quest_volume_1` (ASCII) - i have no knowledge for this
 - `quest_flow_quest_volume_num` (UINT8)- unsure about this purpose, but i can think its related to `quest_flow_quest_en_volume`
