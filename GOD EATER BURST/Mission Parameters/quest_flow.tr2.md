@@ -8,7 +8,7 @@ Heads Up: i usually don't have the idea on the other names but i will give my un
 - `quest_flow_start_eventscript` (INT8) - maybe its related to `god_g001_Demo` or `_TutorialMission`?
 - `quest_flow_end_eventscript` (INT8) - maybe its related to `god_g001_Demo` or `_TutorialMission`?
 - `quest_flow_enemy_id` (UINT16) - unknown, but possibly related to the enemy IDs?
-- `quest_flow_enemy_count` (UINT16) - unknown, ut possiblt related to enemy counts (spawn count?)
+- `quest_flow_enemy_count` (UINT16) - total aragamis to spawn? default is zero but changes when there's a mission required multiple aragamis and each spawn will only be limited due to `quest_flow_quest_en_num`
 - `quest_flow_quest_en_id_array` (UINT16) -  related to aragamis
 - `quest_flow_quest_en_flag_array` (UINT16) -  related to aragamis, but if one of those IDs are in there, they are part of the main target.. im just guessing
 - `quest_flow_quest_en_volume` (ASCII) - there are 8 of them, they serve as a spawn point location for each aragamis i cant say how many spawn points are there since maps have different spawn areas
