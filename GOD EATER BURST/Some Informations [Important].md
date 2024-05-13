@@ -136,7 +136,7 @@ Example is from here: https://www.youtube.com/watch?v=u_vxs-LKEnc
   + the header is `2E 53 50 53 00 00 01 00 50 53 50 20` that translates to `.SPS���PSP ` and thats the texts too
 
 
-# `enus` folders
+# `enus` folders (ONLY EXISTS in GODS EATER BURST [ULUS10563])
 - this folders indicates it has some contents that has some english texts on it...
   they are also separated in a folder too
 - those folders contain one or multiple text files as well
