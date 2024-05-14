@@ -28,7 +28,7 @@ MAY 14 2024
 
 # Giving my thanks: / 致谢：
 - Major Thanks for [HaoJun0823](https://github.com/HaoJun0823) and their teams `(i think they have a team to do this?)` for releasing a very cool tool [GECV](https://github.com/HaoJun0823/GECV), the tool is really important for me to document later on in the future..
-- 主要感谢 [HaoJun0823](https://github.com/HaoJun0823) 和他们的团队“（我认为他们有一个团队来做这件事？）”发布了一个非常酷的工具 [GECV](https://github .com/HaoJun0823/GECV），这个工具对我以后记录非常重要。
+- 主要感谢 [HaoJun0823](https://github.com/HaoJun0823) 和他们的团队“（我认为他们有一个团队来做这件事？）”发布了一个非常酷的工具 [GECV](https://github.com/HaoJun0823/GECV），这个工具对我以后记录非常重要。
 
 
 - [gil-unx](https://github.com/gil-unx) for [GEBCS](https://github.com/gil-unx/GEBCS), this little documentation of mine wouldn't exists without this tool
