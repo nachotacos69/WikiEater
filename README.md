@@ -1,14 +1,12 @@
 # Changelog
-MAY 09 2024
+MAY 14 2024
 - Chinese Support 
 - 中文支持[进行中] 使用谷歌翻译
-
+- edited some other areas [编辑了其他一些区域]
 
 # This will cover only the following / 这将仅涵盖以下内容
-- GOD EATER BURST (USA, JP, EUR)
-- GOD EATER BURST（美国、日本、欧元）
-- GOD EATER 2 (JP) [there wasn't many tools so there's only small content for this one] 
-- GOD EATER 2 (JP) [工具不多，所以内容很少]
+- GOD EATER BURST (USA*美国发布*: ULUS-10563 | JP*日本发售*: NPJH-50352	 | EUR*欧洲发布*: ULES-01519)
+- GOD EATER 2 (JP*日本发售*: NPJH-50832) [工具不多，所以内容很少] / [there wasn't many tools so there's only small content for this one] 
 
 
 
