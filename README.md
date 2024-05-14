@@ -5,8 +5,8 @@ MAY 14 2024
 - edited some other areas [编辑了其他一些区域]
 
 # This will cover only the following / 这将仅涵盖以下内容
-- GOD EATER BURST (USA*美国发布*: ULUS-10563 | JP*日本发售*: NPJH-50352	 | EUR*欧洲发布*: ULES-01519)
-- GOD EATER 2 (JP*日本发售*: NPJH-50832) [工具不多，所以内容很少] / [there wasn't many tools so there's only small content for this one] 
+- GOD EATER BURST (Refer to the GAME-ID below) / **（参考下面的GAME-ID）**
+- GOD EATER 2 (Refer to the GAME-ID below) / **（参考下面的GAME-ID）**
 
 
 
@@ -16,14 +16,12 @@ MAY 14 2024
 
 
 # Contents / 内容
-- GOD EATER BURST + GOD EATER 2 - Related to older games (ADDING MORE GE2 content really soon if there's any tool for it to extract everything that the game has + DLC content too.)
-- GOD EATER BURST + GOD EATER 2 - 与旧游戏相关（如果有任何工具可以提取游戏拥有的所有内容，那么很快就会添加更多 GE2 内容 + DLC 内容。）
+- GOD EATER BURST + GOD EATER 2 - Related to older games (ADDING MORE GE2 content really soon if there's any tool for it to extract everything that the game has + DLC content too.) / **与旧游戏相关（如果有任何工具可以提取游戏拥有的所有内容，那么很快就会添加更多 GE2 内容 + DLC 内容。）**
 
 
 
 # Note / 笔记
-- Check around the folders to read the .md files, You can always contribute as well.. if you want to.. 
-- 检查文件夹以读取 .md 文件，如果您愿意，您也可以随时做出贡献..
+- Check around the folders to read the .md files, You can always contribute as well.. if you want to.. / **检查文件夹以读取 .md 文件，如果您愿意，您也可以随时做出贡献..**
 
 
 # Giving my thanks: / 致谢：
@@ -45,3 +43,45 @@ MAY 14 2024
 
 - [QuickBMS](https://aluigi.altervista.org/quickbms.htm) for the God Eater 2 Script
 - [QuickBMS](https://aluigi.altervista.org/quickbms.htm) 用于《噬神者 2》脚本
+
+
+# GAME ID LIST / 游戏ID列表
+- Keypoints:
++ DEMO, TRIAL, Append IDs are not the full versions of the game, Append Edition requires GOD EATER Physical UMD disc. / **(DEMO、TRIAL、Append ID 不是游戏的完整版本，Append 版需要 GOD EATER 物理 UMD 光盘)**
++ the Japanese (JP), America (USA), Europe (EUR) Versions are the full release of the game / **日本 (JP)、美国 (USA)、欧洲 (EUR) 版本是游戏的完整版本**
+
+Note:  This is important, you will need to identify what game you currently own. / **(这很重要，您需要确定您当前拥有什么游戏)**
+
+
+
+1. GOD EATER:
+- DEMO/TRIAL ID: `NPJH-90069` - Version (版本): 1.00
+- JP ID: `ULJS-00237` - Version (版本): 1.00 -> 1.01
+**(Version will changed when you update your Game)**
+
+2. GOD EATER BURST
+- DEMO/TRIAL ID: `NPJH-90167` - Version (版本): 1.00
+
+- APPEND ID: `ULJS-00350` - Version (版本): 1.00 -> 1.01 
+**Version will changed when you update your Game, whether in game or in the information screen. So check it in XMB Information Section when you select your game.**
+**(当您更新游戏时，无论是在游戏中还是在信息屏幕中，版本都会发生变化。 因此，当您选择游戏时，请在 XMB 信息部分中检查它)**
+
+- JP ID: `NPJH-50352` - Version (版本): 1.00 -> 1.01 
+**Version will changed when you update your Game, whether in game or in the information screen. So check it in XMB Information Section when you select your game.**
+**(当您更新游戏时，无论是在游戏中还是在信息屏幕中，版本都会发生变化。 因此，当您选择游戏时，请在 XMB 信息部分中检查它)**
+
+- EUR ID: `ULES-01519` - Version (版本): 1.00
+**no updates, D3Publisher dicontinued the localization process.**
+**(没有更新，D3Publisher 停止了本地化进程)**
+
+- USA ID: `ULUS-10563` - Version (版本): 1.00
+**no updates, D3Publisher dicontinued the localization process.**
+**(没有更新，D3Publisher 停止了本地化进程)**
+
+
+
+3. GOD EATER 2
+- PRELUDE ID: `NPJH-90338` - Version: 1.00
+- DEMO/TRIAL ID: `NPJH-90338` - Version: 1.00
+- JP ID: `NPJH-50832` - Version: 1.00 -> 1.01 --> 1.10 ---> 1.20 ----> 1.30 -----> 1.40
+**Version will changed on the main screen when you update GOD EATER 2 into a specific update. / (当您将游戏更新到特定更新（以1.10或1.30为例）时，版本会发生变化，请在主屏幕上查看)**
