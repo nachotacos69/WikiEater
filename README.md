@@ -57,7 +57,7 @@ Note:  This is important, you will need to identify what game you currently own.
 1. GOD EATER:
 - DEMO/TRIAL ID: `NPJH-90069` - Version (版本): 1.00
 - JP ID: `ULJS-00237` - Version (版本): 1.00 -> 1.01
-**(Version will changed when you update your Game)**
+**Version will change when you update your Game / （当您更新游戏时，版本会发生变化）**
 
 2. GOD EATER BURST
 - DEMO/TRIAL ID: `NPJH-90167` - Version (版本): 1.00
