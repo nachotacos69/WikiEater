@@ -37,13 +37,13 @@ some files arent founded but you can roam around the .rdp files
 
 
 1. for AT3/RIFF files (applies to GEB as well):
-- in offset 0x00000004 to 0x00000007 (or Block `04-07`), this seems to be the size of the AT3 file, wacky but kind of accurate to be honest, it's in a uint32/int32 encoding, then use that uint32/int32 to go to the file's end offset `(use go to in dec)`
+- in offset 0x00000004 to 0x00000007 (or Block `04-07`), this seems to be the size of the AT3 file, wacky but kind of accurate to be honest, it's in a uint32/int32 encoding, then use that uint32/int32 value to go to the file's end offset `(use go to in dec)`
 
 - Block  `04-07`
 ![Screenshot (169)](https://github.com/nachotacos69/WikiEater/assets/99103531/59fe7722-7c62-44be-a5bb-ee06b5a8e4ba)
 
 
-
+- this is useful when you extract at3 data
 
 
 
