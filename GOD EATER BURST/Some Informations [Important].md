@@ -1,7 +1,7 @@
 # This will cover all of the related stuff you can find on some of these scripts
 
 
-# Texts Files with Indexes
+# Texts Files with Indexes [OLD Version of GEBCS]
 
 - they are rather important since they are for the `.tr2`, `.xml` from what i could understand
 ![Screenshot (69)](https://github.com/nachotacos69/WikiEater/assets/99103531/7e4954fe-fcce-4cd7-bbeb-ecd1e0cc18df)
@@ -15,6 +15,9 @@
 - same as GEBCS but rather a bit complex on that first part above
 - it displays total counts to strings/index, [CRLF](https://en.wikipedia.org/wiki/Newline), and the name of the text file itself, then its type and encoding
 
+# Current Version of GEBCS Structure
+- they consists of excel format now (MSExcel), so there will be differences
+- all of them are raw .tr2 file so it takes less time do modify it
 
 
 # Types of Decompression/Compression/Deflation Methods?
