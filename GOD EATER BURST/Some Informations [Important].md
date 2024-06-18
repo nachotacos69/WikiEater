@@ -122,8 +122,9 @@ Example is from here: https://www.youtube.com/watch?v=u_vxs-LKEnc
 
 # `.blt` and `.obc/obcf` files
 - these are actually bullet files from what i can understand (contains texts sometimes)
-- for the aragami and for the player they use `.blt` (which is a aragami bullet)
+- for the aragami and for the player they use `.blt` (which is a aragami bullet, usually labeled `AG_`)
 - `.obc` and `.obcf` are for those bullets we bought or made from bullet editor
+- commonly, aragami bullets can be found and always stays somewhere in `0x10` as their names (UTF-8), the rest is unknown
 
 # `.act` files
 - can be found inside `MS_` folders usually names `meta_effect` and `meta_motion`:
