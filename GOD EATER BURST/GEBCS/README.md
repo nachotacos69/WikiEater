@@ -4,11 +4,11 @@
 - Supports only GOD EATER BURST (USA, JP, EUR)
 - Can extract all of the contents within package.rdp of GOD EATER BURST
 - Can modify some parts here and there (slightly).
+- DLC Support
 
 
 
 **Bad Things**
-- Slight modification can lead to some issues, although modifying the text indexes doesn't lead to bad things.
 - Mostly changing models whatsoever is very incompatible
 - Adding some extra things makes the tool crash.
 - Supports the very first version of GOD EATER but it gets corrupted with a couple of text modification
