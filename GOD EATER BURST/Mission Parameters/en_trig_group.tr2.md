@@ -9,7 +9,7 @@ Heads Up: i usually don't have the idea on the other names but i will give my un
 - `en_trig_group_weight_group_id_array` (UINT8)- their list and values are usually different, its a somekind of chance/percentage drop rate something like that
 - `en_trig_group_break_count` (UINT8) - their values are different.. its something related to break counts.. share me your thoughts on this one
 - `en_trig_group_rage_flg` (UINT8) - this is related to a bond/part, when it is destroyed, this will trigger **enraged**. if the aragami is already **enraged**, there will no effect i believe
-- `en_trig_group_replace_parts_name` (ASCII) - i have no idea for this one
+- `en_trig_group_replace_parts_name` (ASCII) - names for all aragami bonds/parts in their other broken bond models
 
  ![Screenshot (101)](https://github.com/nachotacos69/WikiEater/assets/99103531/5c7c6c45-0efb-466a-b9a6-bd2c9017b64f)
 
