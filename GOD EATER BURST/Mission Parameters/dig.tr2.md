@@ -6,31 +6,6 @@
 - GEBCS
 - You gotta have a brain i suppose
 
-# Picking a specific mission
-- Some missions have this label
-  + `_Mission` (Regular Missions based on the first GOD EATER)
-  + `_TutorialMission` (Tutorial Missions)
-  + `_DLCMission` (From what i can tell, this is based on GOD EATER's DLC now part of GODS EATER BURST Missions)
-  + `_PlusMission` (i think this the actual GODS EATER BURST actual missions)
-  + `_ChallengeMission` and `_TrialChallengeMission` (Challenge Missions)
-  + to identify missions, check `en_base`, `progress_info` folder and the texts file inside of it
-    + memorize the aragami lists and if it matches as well with the mission location
-      (example 1 Corrosive hannibal 1 Hannibal in City of Mercy), that mission is Anantaboga
-NOTE: you might ask, where's the DLC Missions, i'm glad you ask... **THERE IS NONE.** Since we are touching the base game only
-there's no tool current to unpack all dlc missions in GODS EATER BURST, which is sad for real..
-NOTE 2: Always make a copy of that mission folder in case something bad happens
-
-# Starting Point
-- Open HxD, Notepad++, and the TR2 Editor tool you desire to use to view the mission list `\system\god_menu\god_game\god_g999_Base\default_db\mission.tr2`
-- Find the mission that you want to edit and memories its number (check mission row)
-  +I will use `257_Building_ChallengeMission9` as our test dummy for this a.k.a **Anantaboga** mission
-    + the ID of the mission is `20257`, which is kind of confusing since there's another list of 248 as well but always remember
-      that you can double check and confirm the mission you want to edit based on its location + aragami list on the `en_base`, `progress_info` folder and its
-      text file.
-- afterwards inside that folder and open `dig.tr2` with the TR2 Editor that you're using
-- Then drag the `dig.tr2` to HXD to open it
-
-
 # What is dig?
  + after some i guess fiddling around with the file, its like your salvage points. the way they work is based on their weight... kind of like a rarity/percentage for chances of appearance?
 
