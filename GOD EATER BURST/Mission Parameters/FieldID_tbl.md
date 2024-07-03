@@ -14,5 +14,5 @@ Always positioned at `0x00`
 - `09` --> Aegis [After Variant] (prefix - `EDEN`)
 - `0A` --> Training Room (prefix - `Training`)
 - `0B` --> Church of Memories (prefix - `Church`)
-- 
+
 ![Capture](https://github.com/nachotacos69/WikiEater/assets/99103531/b23b42ad-b9bd-4771-abbe-94ff1a3b8336)
