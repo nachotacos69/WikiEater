@@ -2,7 +2,7 @@
 
 currently i don't really know much about this stuff so mostly we will identify them by HEX
 
-Always positioned at 0x0
+Always positioned at `0x00`
 
 - `01` --> Wailing Plains (prefix - `Step`)
 - `03` --> Infernal Subway (prefix - `Metro`)
