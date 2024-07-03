@@ -2,13 +2,57 @@
 Heads Up: i usually don't have the idea on the other names but i will give my understanding on these few column names
 
 
-- Some of these files uses some `FIX_` prefixes, like you're seeing on screen
+- Some of these files uses some `FIX_` prefix or `EP` prefix, like you're seeing on screen
 ![FIX ENTRY](https://github.com/nachotacos69/WikiEater/assets/99103531/d33ed69e-5e8a-4678-a1a0-73ddf2d41998)
 
 - From what i can guess, this is for the NPCS, Members (LAN Play), or something more
 
 
-# Current List of `EP` Prefix
+# Current List For this kind of stuff
+**1**
+- EP1_Event_Entry_0001
+- EP1_Event_Entry_0004
+- EP1_Event_Entry_0002
+- EP1_Event_Entry_0003
+**27**
+- EP27_Enemy_Entry_0005
+- EP27_Enemy_Entry_0007
+- EP27_Enemy_Entry_0008
+- EP27_Enemy_Entry_0006
+**39**
+- EP39_Event_Entry_0002
+- EP39_Event_Entry_0004
+- EP39_Event_Entry_0001
+- EP39_Event_Entry_0003
+**49**
+- EP49_Event_Entry_0001
+- EP49_Event_Entry_0003
+- EP49_Event_Entry_0002
+**79**
+- EP79_Event_Entry_0003
+- EP79_Event_Entry_0004
+- EP79_Event_Entry_0001
+- EP79_Event_Entry_0002
+**96**
+- EP96_Event_Entry_0003
+- EP96_Event_Entry_0004
+- EP96_Event_Entry_0002
+- EP96_Event_Entry_0001
+**108**
+- EP108_Event_Entry_0003
+- EP108_Event_Entry_0004
+- EP108_Event_Entry_0001
+- EP108_Event_Entry_0002
+**274**
+- EP274_Event_Entry_0001
+- EP274_Event_Entry_0003
+- EP274_Event_Entry_0004
+- EP274_Event_Entry_0002
+**276**
+- EP276_Event_Entry_0001
+- EP276_Event_Entry_0003
+- EP276_Event_Entry_0004
+- EP276_Event_Entry_0002
 **282**
 - EP282_Event_Entry_0001
 - EP282_Event_Entry_0002
@@ -76,6 +120,7 @@ Heads Up: i usually don't have the idea on the other names but i will give my un
 - FIX_Event_Entry_0018 
 - FIX_Event_Entry_0019 
 - FIX_Event_Entry_0020
+- FIX_Entry_Entry_0020 ??
 - FIX_Event_Entry_0021
 - FIX_Event_Entry_0022
 - FIX_Event_Entry_0023
