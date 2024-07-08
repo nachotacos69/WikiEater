@@ -20,8 +20,8 @@ Heads Up: i usually don't have the idea on the other names but i will give my un
 - `en_atk_name` (ASCII) - Aragami attack names.. thats just it
 - `en_atk_knockback_id` (UINT8) - Aragami attack knockback value, they different values, starting from 1 to 3, lets say either low to high knockbacks to player after an aragami hits the player
   usually strong attacks have higher knockback.
-- `en_atk_condition_id` (UINT8) - i don't know much about this but i could say this is either related to the **enraged** part?
-- `en_atk_condition_time` (FLOAT32) - related to `en_atk_condition_id`, its something related as well to the mission time?
+- `en_atk_condition_id` (UINT8) - related to player's negative/debuff effects
+- `en_atk_condition_time` (FLOAT32) - related to `en_atk_condition_id`, its a timer for the condition
 
 ![Screenshot (95)](https://github.com/nachotacos69/WikiEater/assets/99103531/7d7d3270-0276-48c4-97cd-16a5037b8434)
 
