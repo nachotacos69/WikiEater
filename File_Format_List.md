@@ -61,7 +61,7 @@
 
 # GMO Format
 [Source: https://wiki.ffrtt.ru/index.php/PSP/GMO_Format]
-- A model file format, Used in character/enemy models, camera, death and other hitbox.
+- A model file format, Used in character/enemy models, camera and some camera death and other hitbox.
 
 # VAG Format
 [Source: https://en.wikipedia.org/wiki/Adaptive_differential_pulse-code_modulation]
