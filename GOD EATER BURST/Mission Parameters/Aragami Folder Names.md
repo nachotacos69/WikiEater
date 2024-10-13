@@ -49,13 +49,13 @@
 1. `MS_007N_manmo` - Quadriga
 2. `MS_007C_ice` - Fallen Quadriga (Freeze)
 3. `MS_007N_tezca` - Tezcatlipoca
-4.`MS_007C_god` - Poseidon
+4. `MS_007C_god` - Poseidon
 	
 ## Borg Camlann
 1. `MS_003N_sasor` - Borg Camlann
 2. `MS_003C_fire` - Fallen Borg Camlann (Blaze)
 3. `MS_003C_thndr` - Fallen Borg Camlann (Thunder)
-4 `MS_003N_susan` - Susano'o
+4. `MS_003N_susan` - Susano'o
 	
 ## Sariel
 1. `MS_005N_btfly` - Sariel
