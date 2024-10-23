@@ -71,11 +71,11 @@ Note:  This is important, you will need to identify what game you currently own.
 **(当您更新游戏时，无论是在游戏中还是在信息屏幕中，版本都会发生变化。 因此，当您选择游戏时，请在 XMB 信息部分中检查它)**
 
 - EUR ID: `ULES-01519` - Version (版本): 1.00
-**no updates, D3Publisher dicontinued the localization process.**
+**no updates, D3Publisher discontinued the localization process.**
 **(没有更新，D3Publisher 停止了本地化进程)**
 
 - USA ID: `ULUS-10563` - Version (版本): 1.00
-**no updates, D3Publisher dicontinued the localization process.**
+**no updates, D3Publisher discontinued the localization process.**
 **(没有更新，D3Publisher 停止了本地化进程)**
 
 
