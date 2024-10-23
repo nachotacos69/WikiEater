@@ -1,5 +1,5 @@
 # TOPIC - Aragami Folder Names
-- This is just a possible list of aragami folders.
+- A list of aragami folders.
 
 
 
