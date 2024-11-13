@@ -15,9 +15,7 @@
   + `_ChallengeMission` and `_TrialChallengeMission` (Challenge Missions)
   + to identify missions, check `en_base`, `progress_info` folder and the texts file inside of it
     + memorize the aragami lists and if it matches as well with the mission location
-      (example 1 Corrosive hannibal 1 Hannibal in City of Mercy), that mission is Anantaboga
-NOTE: you might ask, where's the DLC Missions, i'm glad you ask... **THERE IS NONE.** Since we are touching the base game only
-there's no tool current to unpack all dlc missions in GODS EATER BURST, which is sad for real..
+      (example 1 Corrosive hannibal 1 Hannibal in City of Mercy), that mission is Anantaboga.
 NOTE 2: Always make a copy of that mission folder in case something bad happens
 
 # Starting Point
@@ -49,7 +47,7 @@ Heads Up: i usually don't have the idea on the other names but i will give my un
   folder and its `.xml` and `.res` files too
 - `en_base_display_name` (UTF-8) - The aragami's name that displays on screen except on `Mission Check` tab.
 - `en_base_entry_limit` (UINT8) - from what i can tell, since it says **entry** this is either some kind of limitation for aragami's spawn limit?
-- `en_base_hp` (UINT32) - multiple HP list.. the 1st one is the main health. but test around to find out.
+- `en_base_hp` (UINT32) - multiple HP list.. apparently related to difficulties or something.
 - `en_base_family_id` (UINT8) - related to `creature_ .bin` files
 - `en_base_sight_area` (FLOAT32) - the visibilty of the aragami based on in game distance. If increased, they will have possibility of X-Ray
 - `en_base_hearing_area` (FLOAT32) - aragami's hearing in game distance. If increased, they will be aware of your movements (dash, jump, Blade to Gun Switching)
