@@ -1,8 +1,6 @@
 # Changelog
-MAY 14 2024
-- Chinese Support 
-- 中文支持[进行中] 使用谷歌翻译
-- edited some other areas [编辑了其他一些区域]
+DECEMBER 4 2024
+- ADDED: GOD EATER 2 RES Documentation
 
 # This will cover only the following / 这将仅涵盖以下内容
 - GOD EATER BURST (Refer to the GAME-ID below) / **（参考下面的GAME-ID）**
