@@ -51,7 +51,7 @@ this counts groups for each files or like a total file count, but im not sure?
 | **0x40** 			|PACKAGE. *Based on package.rdp input file*|
 | **0x50** 			|DATA. *Based on data.rdp input file*|
 | **0x60** 			|PATCH. *Based on patch.rdp input file*|
-| **0xC0 or 0xD0**|CURRENT.*Based on the file being currently reading which means,<br>no changes and no hopping to other files)*|
+| **0xC0 or 0xD0?**|CURRENT.*Based on the file being currently reading which means,<br>no changes and no hopping to other files)*<br>*but im not really sure about the 0xD0 part so yeah.*|
 
 
 #  Information
